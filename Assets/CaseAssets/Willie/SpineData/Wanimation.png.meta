@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 2f782144411dba94ebeb2e313cb68483
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7275701845265518636
+    second: Wanimation_0
+  - first:
+      213: 812389719278482928
+    second: Wanimation_1
+  - first:
+      213: 4532120762362416263
+    second: Wanimation_2
+  - first:
+      213: 436706678757403814
+    second: Wanimation_3
+  - first:
+      213: -3052263338026436022
+    second: Wanimation_4
+  - first:
+      213: -3558957383845098737
+    second: Wanimation_5
+  - first:
+      213: 7349323702006058102
+    second: Wanimation_6
+  - first:
+      213: -8012385308897035821
+    second: Wanimation_7
+  - first:
+      213: -345673868732994155
+    second: Wanimation_8
+  - first:
+      213: -6939286857511263105
+    second: Wanimation_9
+  - first:
+      213: 4240804098043014306
+    second: Wanimation_10
+  - first:
+      213: 1768857558553811024
+    second: Wanimation_11
+  - first:
+      213: 5706762050594676159
+    second: Wanimation_12
+  - first:
+      213: 1745943721600842835
+    second: Wanimation_13
+  - first:
+      213: -6338255363921653403
+    second: Wanimation_14
+  - first:
+      213: -5666964056957114619
+    second: Wanimation_15
+  - first:
+      213: -6805398079785378357
+    second: Wanimation_16
+  - first:
+      213: -9161458271764255914
+    second: Wanimation_17
+  - first:
+      213: -6214997155729003726
+    second: Wanimation_18
+  - first:
+      213: -5723035529668196523
+    second: Wanimation_19
+  - first:
+      213: -6738041594423954324
+    second: Wanimation_20
+  - first:
+      213: 8748569720388658705
+    second: Wanimation_21
+  - first:
+      213: 8329125031896639049
+    second: Wanimation_22
+  - first:
+      213: 3364167981638001208
+    second: Wanimation_23
+  - first:
+      213: -1845633838075576395
+    second: Wanimation_24
+  - first:
+      213: 1265461497081557449
+    second: Wanimation_25
+  - first:
+      213: 6267635685417257910
+    second: Wanimation_26
+  - first:
+      213: -2999346515448029827
+    second: Wanimation_27
+  - first:
+      213: -4412847006102573186
+    second: Wanimation_28
+  - first:
+      213: -1078239412356410305
+    second: Wanimation_29
+  - first:
+      213: 1464553216670200587
+    second: Wanimation_30
+  - first:
+      213: -162341778061121038
+    second: Wanimation_31
+  - first:
+      213: 6469511504381190147
+    second: Wanimation_32
+  - first:
+      213: 7987688413770086793
+    second: Wanimation_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wanimation_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1447
+        width: 319
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2094baa74c78f460800000000000000
+      internalID: 7275701845265518636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanimation_1
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1833
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5f5cc3520364b00800000000000000
+      internalID: 812389719278482928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanimation_2
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1833
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cc8c732d355ee30800000000000000
+      internalID: 4532120762362416263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanimation_3
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1845
+        width: 51
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac206a196e7f0600800000000000000
+      internalID: 436706678757403814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanimation_4
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1822
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a7cf76aae24a5d0800000000000000
+      internalID: -3052263338026436022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanimation_5
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1822
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bc8259d1b0c9ec0800000000000000
+      internalID: -3558957383845098737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanimation_6
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 1200
+        width: 1045
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c0e65f7fa0ef560800000000000000
+      internalID: 7349323702006058102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanimation_7
+      rect:
+        serializedVersion: 2
+        x: 3051
+        y: 1619
+        width: 299
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d932a3530a4ec090800000000000000
+      internalID: -8012385308897035821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanimation_8
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1833
+        width: 51
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59de806a27be33bf0800000000000000
+      internalID: -345673868732994155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanimation_9
+      rect:
+        serializedVersion: 2
+        x: 3351
+        y: 1619
+        width: 355
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7421877e53b2bf90800000000000000
+      internalID: -6939286857511263105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanimation_10
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1447
+        width: 418
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acefd1cbdc5ada30800000000000000
+      internalID: 4240804098043014306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanimation_11
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1447
+        width: 420
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0585dd3e39e3c8810800000000000000
+      internalID: 1768857558553811024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanimation_12
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1447
+        width: 275
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd106b69dd723f40800000000000000
+      internalID: 5706762050594676159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanimation_13
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1447
+        width: 272
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c77db7096da3810800000000000000
+      internalID: 1745943721600842835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanimation_14
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1635
+        width: 267
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5615cb9f35ef908a0800000000000000
+      internalID: -6338255363921653403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanimation_15
+      rect:
+        serializedVersion: 2
+        x: 3707
+        y: 1526
+        width: 202
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5072a2e0736ea51b0800000000000000
+      internalID: -5666964056957114619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanimation_16
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1447
+        width: 267
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd5443c08e5e81a0800000000000000
+      internalID: -6805398079785378357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanimation_17
+      rect:
+        serializedVersion: 2
+        x: 3051
+        y: 1200
+        width: 319
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65b6de6cd36fbd080800000000000000
+      internalID: -9161458271764255914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanimation_18
+      rect:
+        serializedVersion: 2
+        x: 3372
+        y: 1527
+        width: 95
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ba5bce305efb9a0800000000000000
+      internalID: -6214997155729003726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanimation_19
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 1527
+        width: 49
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5570039f181b390b0800000000000000
+      internalID: -5723035529668196523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanimation_20
+      rect:
+        serializedVersion: 2
+        x: 3519
+        y: 1527
+        width: 47
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64bd8a9edaad72a0800000000000000
+      internalID: -6738041594423954324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanimation_21
+      rect:
+        serializedVersion: 2
+        x: 3567
+        y: 1526
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116218c0fc9296970800000000000000
+      internalID: 8748569720388658705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanimation_22
+      rect:
+        serializedVersion: 2
+        x: 3372
+        y: 1468
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9466300461ff69370800000000000000
+      internalID: 8329125031896639049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanimation_23
+      rect:
+        serializedVersion: 2
+        x: 3709
+        y: 1200
+        width: 260
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832a64684fcefae20800000000000000
+      internalID: 3364167981638001208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanimation_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 2002
+        height: 1445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf70188dcdf266e0800000000000000
+      internalID: -1845633838075576395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanimation_25
+      rect:
+        serializedVersion: 2
+        x: 3372
+        y: 1402
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1fa72e682df8110800000000000000
+      internalID: 1265461497081557449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanimation_26
+      rect:
+        serializedVersion: 2
+        x: 3618
+        y: 1401
+        width: 68
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb8bd2d27d1bf650800000000000000
+      internalID: 6267635685417257910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanimation_27
+      rect:
+        serializedVersion: 2
+        x: 3371
+        y: 1199
+        width: 180
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d1a644c3e2066d0800000000000000
+      internalID: -2999346515448029827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanimation_28
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 1306
+        width: 154
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f2c19370b62c2c0800000000000000
+      internalID: -4412847006102573186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanimation_29
+      rect:
+        serializedVersion: 2
+        x: 3567
+        y: 1247
+        width: 125
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f349bab97f25901f0800000000000000
+      internalID: -1078239412356410305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanimation_30
+      rect:
+        serializedVersion: 2
+        x: 3567
+        y: 1200
+        width: 130
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03784a1463235410800000000000000
+      internalID: 1464553216670200587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanimation_31
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 1
+        width: 2002
+        height: 1198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f92672530f3fbdf0800000000000000
+      internalID: -162341778061121038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanimation_32
+      rect:
+        serializedVersion: 2
+        x: 4006
+        y: 14
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300a1f0bf6258c950800000000000000
+      internalID: 6469511504381190147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanimation_33
+      rect:
+        serializedVersion: 2
+        x: 4006
+        y: 2
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989f44faa48f9de60800000000000000
+      internalID: 7987688413770086793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Wanimation_0: 7275701845265518636
+      Wanimation_1: 812389719278482928
+      Wanimation_10: 4240804098043014306
+      Wanimation_11: 1768857558553811024
+      Wanimation_12: 5706762050594676159
+      Wanimation_13: 1745943721600842835
+      Wanimation_14: -6338255363921653403
+      Wanimation_15: -5666964056957114619
+      Wanimation_16: -6805398079785378357
+      Wanimation_17: -9161458271764255914
+      Wanimation_18: -6214997155729003726
+      Wanimation_19: -5723035529668196523
+      Wanimation_2: 4532120762362416263
+      Wanimation_20: -6738041594423954324
+      Wanimation_21: 8748569720388658705
+      Wanimation_22: 8329125031896639049
+      Wanimation_23: 3364167981638001208
+      Wanimation_24: -1845633838075576395
+      Wanimation_25: 1265461497081557449
+      Wanimation_26: 6267635685417257910
+      Wanimation_27: -2999346515448029827
+      Wanimation_28: -4412847006102573186
+      Wanimation_29: -1078239412356410305
+      Wanimation_3: 436706678757403814
+      Wanimation_30: 1464553216670200587
+      Wanimation_31: -162341778061121038
+      Wanimation_32: 6469511504381190147
+      Wanimation_33: 7987688413770086793
+      Wanimation_4: -3052263338026436022
+      Wanimation_5: -3558957383845098737
+      Wanimation_6: 7349323702006058102
+      Wanimation_7: -8012385308897035821
+      Wanimation_8: -345673868732994155
+      Wanimation_9: -6939286857511263105
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
